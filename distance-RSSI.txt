@@ -1,0 +1,2 @@
+https://youtu.be/C4QYCReGEUY
+Log the Received Signal Strength Indicator (RSSI) on the single channel Lora Gateway when moving the Things Uno Beta.
