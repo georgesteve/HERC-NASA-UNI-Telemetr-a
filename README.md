@@ -46,4 +46,6 @@ https://www.sciencedirect.com/topics/computer-science/dead-reckoning
 
 https://www.researchgate.net/figure/kNN-on-the-wine-data-set-Projection-of-the-training-and-test-samples-and-representation_fig3_261181830
 
-https://books.google.com.pe/books?id=JFq5BQAAQBAJ&pg=PA613&lpg=PA613&dq=artificial+intelligence+to+measure+positioning+rss&source=bl&ots=JVeGzT-JVV&sig=ACfU3U3Y4z1DXHCJGnwRpKmWaQ2OS6wdFg&hl=es&sa=X&ved=2ahUKEwjRle6NgufgAhVGxVkKHc3yDbkQ6AEwAHoECAYQAQ#v=onepage&q=artificial%20intelligence%20to%20measure%20positioning%20rss&f=false  (LIBRO)
+https://books.google.com.pe/books?id=YWBJAAAAQBAJ&pg=PA164&lpg=PA164&dq=estimation+error+at+all+the+TPs&source=bl&ots=sGt32e64Ak&sig=ACfU3U3RuJWcdXVnB3hpzVadDZ9E9A2yEA&hl=es&sa=X&ved=2ahUKEwiWqYCb6ubgAhWBmVkKHdmYAc4Q6AEwB3oECAMQAQ#v=onepage&q=estimation%20error%20at%20all%20the%20TPs&f=false
+
+https://books.google.com.pe/books?id=JFq5BQAAQBAJ&pg=PA613&lpg=PA613&dq=artificial+intelligence+to+measure+positioning+rss&source=bl&ots=JVeGzT-JVV&sig=ACfU3U3Y4z1DXHCJGnwRpKmWaQ2OS6wdFg&hl=es&sa=X&ved=2ahUKEwjRle6NgufgAhVGxVkKHc3yDbkQ6AEwAHoECAYQAQ#v=onepage&q=artificial%20intelligence%20to%20measure%20positioning%20rss&f=false (LIBRO)
