@@ -13,6 +13,8 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=24215
 
 
   Triangulación con KNN neighbours and fingerprint positioning
+  
+  https://www.researchgate.net/publication/315638917_Optimization_WIFI_indoor_positioning_KNN_algorithm_location-based_fingerprint
 
        https://www.sciencedirect.com/science/article/pii/S240595951830050X#fd1
       
