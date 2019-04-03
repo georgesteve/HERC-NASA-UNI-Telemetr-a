@@ -10,7 +10,7 @@ https://quadmeup.com/virtualwire-support-for-raspberry-pi/
 
 https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=24215
 
-
+Saving arduino data to a .csv file
 
   Triangulación con KNN neighbours and fingerprint positioning
   
